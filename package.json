@@ -24,7 +24,7 @@
     "bip39": "^2.2.0",
     "bitbox-sdk": "^8.3.2",
     "events": "^1.1.1",
-    "xtend": "^4.0.1"
+    "xtend": "^4.0.2"
   },
   "devDependencies": {
     "assert": "^1.4.1",
